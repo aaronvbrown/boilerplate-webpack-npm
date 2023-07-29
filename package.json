@@ -1,5 +1,5 @@
 {
-  "name": "haiku-checker",
+  "name": "boilerplate-webpack-npm",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,8 +10,11 @@
     "test": "jest --coverage"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": {
+    "name": "Aaron Brown",
+    "email": "worldofaaron@hotmail.com"
+  },
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.18.6",
     "@babel/plugin-transform-modules-commonjs": "^7.18.6",

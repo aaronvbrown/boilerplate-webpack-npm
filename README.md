@@ -2,8 +2,7 @@
 
 #### By **Aaron Brown**
 
-#### A landing page for viewing work by Aaron Brown.  Uses html, css & javascript.
-
+#### A starter template for web applications using html, css, javascript and tooling including: npm, webpack, jest, eslint & babel.
 
 ## Technologies Used
 
@@ -13,25 +12,24 @@
 * git
 * npm
 * webpack
+* jest
 * eslint
 * babel
-* vs code
-* live server for vs code
 * chrome
 
 ## Description
 
-This page intended to ___.
+This project is intended as a starter template for webpack projects using 
 
 ## Setup Requirements
 
-* clone the repository
-* install vs code
-* install live server for vs code
-* open the repo in vs code
-* open index.htm in browser using live server
-* view the page via gitup pages here:  https://aaronvbrown.github.io/port/
-
+* clone the repository **git clone https://github.com/aaronvbrown/boilerplate-webpack-npm** in the terminal
+* install npm **npm install**
+* build the project **npm run build**
+* start the development server **npm run start**
+* open the project through a browser using address:  **http://localhost:8080/**  
+* update boilerplate code in index.html, index.js, package.json and test files.
+* test the project **npm run test**
 
 ## Known Bugs
 * none at this time
